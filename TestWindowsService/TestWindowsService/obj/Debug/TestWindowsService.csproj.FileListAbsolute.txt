@@ -1,0 +1,9 @@
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojAssemblyReference.cache
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.ProjectInstaller.resources
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.GenerateResource.cache
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CoreCompileInputs.cache
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
+C:\GIT\WindowsService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
